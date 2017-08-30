@@ -1,0 +1,9 @@
+D:\LABC#\test0829_RefOut\test0829_RefOut\bin\Debug\test0829_RefOut.exe.config
+D:\LABC#\test0829_RefOut\test0829_RefOut\bin\Debug\test0829_RefOut.exe
+D:\LABC#\test0829_RefOut\test0829_RefOut\bin\Debug\test0829_RefOut.pdb
+D:\LABC#\test0829_RefOut\test0829_RefOut\obj\Debug\test0829_RefOut.Form1.resources
+D:\LABC#\test0829_RefOut\test0829_RefOut\obj\Debug\test0829_RefOut.Properties.Resources.resources
+D:\LABC#\test0829_RefOut\test0829_RefOut\obj\Debug\test0829_RefOut.csproj.GenerateResource.Cache
+D:\LABC#\test0829_RefOut\test0829_RefOut\obj\Debug\test0829_RefOut.exe
+D:\LABC#\test0829_RefOut\test0829_RefOut\obj\Debug\test0829_RefOut.pdb
+D:\LABC#\test0829_RefOut\test0829_RefOut\obj\Debug\test0829_RefOut.csprojResolveAssemblyReference.cache
